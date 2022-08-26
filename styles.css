@@ -1,0 +1,73 @@
+
+.header-cls{
+    border: solid 2px;
+    
+}
+.nav-link{
+    font-size: 1.5rem;
+}
+.navbar-nav a{
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight:bold;
+
+}
+.navbar-nav a:hover{
+    color: white;
+}
+
+.brand{
+    color: #000;
+    font-size: 35px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 5px;
+}
+.cards:hover{
+    box-shadow: 17px 17px 17px 17px rgba(0, 0, 0,0.1);
+    border: solid 1px;
+
+}
+.submit-btn{
+    width: 100%;
+    height: 3em;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: solid 2.5px;
+    border-color:rgb(255, 193, 7);
+    border-radius: 9px;
+    background: rgba(5, 5, 5, 0.866);
+    color: rgb(255, 193, 7);
+    font-weight: bold;
+    letter-spacing: 6px;
+}
+.submit-btn:hover{
+    background:rgb(255, 193, 7);
+    color: rgba(5, 5, 5, 0.866);
+    border-color:rgba(5, 5, 5, 0.866);
+}
+.logo{
+    color: black;
+    font-size: 3rem;
+    margin: 1rem;
+}
+.logo:hover{
+    color:rgb(255, 193, 7);
+}
+.logo-div{
+    padding-left: 4.5rem;
+    padding-top: 2rem;
+}
+.getInText{
+    margin-left: 3rem;
+    font-size: 1.5rem;
+}
+.getTextDiv{
+    margin-left: 2 rem;
+    padding-left: 2.3rem;
+}
+.about p {
+    margin: 0;
+    text-indent: 2rem;
+    text-align: justify;
+  }
